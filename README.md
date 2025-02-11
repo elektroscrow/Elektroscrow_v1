@@ -2,7 +2,7 @@
 
 ![Elektroscrow Banner](assets/banner.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
 [![Audit: SolidProof](https://img.shields.io/badge/Audit-SolidProof-green.svg)](https://solidproof.io)
 
 Elektroscrow is the first fully decentralized escrow service built to operate across multiple blockchain networks. This repository contains the backend implementation—comprising Solidity smart contracts and comprehensive test suites—that powers the Elektroscrow platform.
